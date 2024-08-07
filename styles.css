@@ -33,9 +33,9 @@ p {
     padding-left: 12px;
 }
 
-.videodisplay (
+.videodisplay {
     padding-right: 10px;
-)
+}
 
 img {
     height: 200px;
@@ -73,6 +73,6 @@ img {
     font-size: 25px;
 }
 
-.cabeça-titulo {
+.cabeca-titulo {
     padding-left: 520px;
 }
